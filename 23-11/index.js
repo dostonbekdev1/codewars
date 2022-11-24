@@ -7,13 +7,11 @@
 
 // multiply(10,10)
 
-
+// console.log(10)
 // function includer(arr, item){
 //  return Number(Math,sqrt(n))
 // }
 // console.log(includer([1,2,3,4], 3));
-
-
 
 // function otherAngle(a, b) {
 //   let total = 180;
@@ -21,9 +19,6 @@
 // }
 
 // otherAngle(29,10)
-
-
-
 
 // function positiveSum(arr) {
 //   for (let i = 0; i < arr.length; i++) {
