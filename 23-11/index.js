@@ -29,3 +29,7 @@
 // }
 // }
 // console.log(positiveSum([1,2,3,4,5]));
+
+// function even_or_odd(number) {
+//    return number % 2 === 0 ? 'Even' : 'Odd';
+// }
